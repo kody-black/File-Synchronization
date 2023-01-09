@@ -1,5 +1,5 @@
 # File-Synchronization
-> 同步文件夹内容的小工具
+> 同步文件夹内容的小工具【[点这里直接下载可执行程序](https://github.com/distiny-cool/File-Synchronization/releases/download/v1.0/SyncFile.exe)】
 
 ### 出发点
 
