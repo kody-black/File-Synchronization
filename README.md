@@ -7,7 +7,7 @@
 
 ### 思路
 
-![](https://files.catbox.moe/7zjoso.png)
+![](https://files.catbox.moe/gwnx4z.jpg)
 
 ### 代码注释详细，可以自己修改，也可以供初学者学习pyqt5参考
 
